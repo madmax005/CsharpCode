@@ -1,0 +1,12 @@
+
+<html>
+
+<head>
+
+
+<script>
+document.querySelector('html').onclick = function() {
+alert('Ouch! Stop poking me!'); }
+</script>
+</body>
+</html>
