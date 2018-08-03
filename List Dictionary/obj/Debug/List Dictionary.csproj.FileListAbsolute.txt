@@ -1,0 +1,7 @@
+C:\Users\Terry\source\repos\Csharp\List Dictionary\bin\Debug\List Dictionary.exe.config
+C:\Users\Terry\source\repos\Csharp\List Dictionary\bin\Debug\List Dictionary.exe
+C:\Users\Terry\source\repos\Csharp\List Dictionary\bin\Debug\List Dictionary.pdb
+C:\Users\Terry\source\repos\Csharp\List Dictionary\obj\Debug\List Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Terry\source\repos\Csharp\List Dictionary\obj\Debug\List Dictionary.exe
+C:\Users\Terry\source\repos\Csharp\List Dictionary\obj\Debug\List Dictionary.pdb
+C:\Users\Terry\source\repos\Csharp\List Dictionary\obj\Debug\List Dictionary.csprojAssemblyReference.cache
